@@ -1,0 +1,1313 @@
+{
+  "type": "FeatureCollection",
+  "name": "taz_mm.tbl_routennetz",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5392795024,
+            47.375737465
+          ],
+          [
+            8.5396184205,
+            47.376407568
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 1648,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "1676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.498049057,
+            47.4026561003
+          ],
+          [
+            8.4981247056,
+            47.4027632029
+          ],
+          [
+            8.4981710309,
+            47.4028288015
+          ],
+          [
+            8.49821656,
+            47.4028894674
+          ],
+          [
+            8.4982618882,
+            47.4028915299
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 2964,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Schärrergasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "2750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4814057888,
+            47.4042717568
+          ],
+          [
+            8.4813434867,
+            47.4042603448
+          ],
+          [
+            8.4812501141,
+            47.4042587504
+          ],
+          [
+            8.4810389365,
+            47.4042898995
+          ],
+          [
+            8.4802591144,
+            47.4044285425
+          ],
+          [
+            8.4801621351,
+            47.4044443624
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 6355,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Langfachweg",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "4977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4964913241,
+            47.4038873138
+          ],
+          [
+            8.4964858263,
+            47.4038985065
+          ],
+          [
+            8.4964816713,
+            47.4039099631
+          ],
+          [
+            8.496478886,
+            47.4039216092
+          ],
+          [
+            8.4964774884,
+            47.4039333697
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 7016,
+        "velo": 1,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Holbrigstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "5416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4801621351,
+            47.4044443624
+          ],
+          [
+            8.4792786742,
+            47.4045884714
+          ],
+          [
+            8.4781444236,
+            47.4047766001
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 5959,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Langfachweg",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "7538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5014606369,
+            47.4046637171
+          ],
+          [
+            8.5015769455,
+            47.4047357589
+          ],
+          [
+            8.5018773695,
+            47.4048597252
+          ],
+          [
+            8.5019536549,
+            47.4049053207
+          ],
+          [
+            8.5020120043,
+            47.4049510901
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 8599,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Vogtsrain",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "11993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5064816396,
+            47.4021110662
+          ],
+          [
+            8.5064829483,
+            47.4021763587
+          ],
+          [
+            8.5065145226,
+            47.402246489
+          ],
+          [
+            8.5065868069,
+            47.4023713105
+          ],
+          [
+            8.5065949989,
+            47.402403248
+          ],
+          [
+            8.5065682917,
+            47.4025486293
+          ],
+          [
+            8.5066861718,
+            47.4025291722
+          ],
+          [
+            8.5067108828,
+            47.4025391891
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 12947,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Müseliweg",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "14481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4973620905,
+            47.4050307175
+          ],
+          [
+            8.4973999132,
+            47.4051551046
+          ],
+          [
+            8.4974189332,
+            47.4052367308
+          ],
+          [
+            8.4974354855,
+            47.4054028426
+          ],
+          [
+            8.4974443471,
+            47.4056105825
+          ],
+          [
+            8.4974447891,
+            47.4056207518
+          ],
+          [
+            8.4974570025,
+            47.4057772066
+          ],
+          [
+            8.4974673007,
+            47.4058678322
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 16788,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Holbrigstrasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "19518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5067794561,
+            47.4018528458
+          ],
+          [
+            8.5067135395,
+            47.4019194074
+          ],
+          [
+            8.5065692286,
+            47.4020590302
+          ],
+          [
+            8.5064816396,
+            47.4021110662
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 18023,
+        "velo": 1,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Appenzellerstrasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "20268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5020120043,
+            47.4049510901
+          ],
+          [
+            8.5021424806,
+            47.4050132504
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 22945,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Vogtsrain",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "21310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4801621351,
+            47.4044443624
+          ],
+          [
+            8.4801399302,
+            47.4044269144
+          ],
+          [
+            8.4798323669,
+            47.4043865726
+          ],
+          [
+            8.479642211,
+            47.4043502861
+          ],
+          [
+            8.4795245769,
+            47.4043345385
+          ],
+          [
+            8.4792573754,
+            47.4043216
+          ],
+          [
+            8.4788982132,
+            47.4042846427
+          ],
+          [
+            8.4788861904,
+            47.4042752504
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 24009,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Fussweg",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "21618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5021424806,
+            47.4050132504
+          ],
+          [
+            8.5022178607,
+            47.4050924503
+          ],
+          [
+            8.5023638333,
+            47.405170299
+          ],
+          [
+            8.5025835236,
+            47.4052540613
+          ],
+          [
+            8.502942805,
+            47.4053641354
+          ],
+          [
+            8.5033110014,
+            47.4054667495
+          ],
+          [
+            8.5034837649,
+            47.4054895335
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 22808,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Vogtsrain",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "22835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4978572302,
+            47.4020717328
+          ],
+          [
+            8.4978572925,
+            47.4020865946
+          ],
+          [
+            8.4978866788,
+            47.4022064445
+          ],
+          [
+            8.4979948524,
+            47.4025619608
+          ],
+          [
+            8.4980146638,
+            47.4025963695
+          ],
+          [
+            8.498049057,
+            47.4026561003
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 21008,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Schärrergasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "23919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4974526254,
+            47.4061850021
+          ],
+          [
+            8.4973924864,
+            47.4064825198
+          ],
+          [
+            8.4973788082,
+            47.4065502244
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 27124,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Holbrigstrasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "25442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5386939913,
+            47.3745797364
+          ],
+          [
+            8.5389764786,
+            47.3751383065
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 25499,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "27406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4973788082,
+            47.4065502244
+          ],
+          [
+            8.4973714925,
+            47.4067226007
+          ],
+          [
+            8.4973867571,
+            47.406894737
+          ],
+          [
+            8.4974244815,
+            47.4070652726
+          ],
+          [
+            8.4974514005,
+            47.4071719332
+          ],
+          [
+            8.4974644604,
+            47.4072797842
+          ],
+          [
+            8.497463561,
+            47.4073879973
+          ],
+          [
+            8.49747791,
+            47.4075224848
+          ],
+          [
+            8.497546525,
+            47.407610142
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 26172,
+        "velo": 1,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Holbrigstrasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "27965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5389764786,
+            47.3751383065
+          ],
+          [
+            8.5390245499,
+            47.3752333769
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 26418,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "29021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5766344169,
+            47.3740585589
+          ],
+          [
+            8.5770680395,
+            47.3744903904
+          ],
+          [
+            8.5772764181,
+            47.374623143
+          ],
+          [
+            8.5775072716,
+            47.3747895847
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 33322,
+        "velo": 1,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Waldweg",
+        "map_velo": 5,
+        "map_fuss": 1,
+        "se_anno_cad_data": null,
+        "objectid": "29129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5391660038,
+            47.3755130554
+          ],
+          [
+            8.5392795024,
+            47.375737465
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 31901,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "29707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5775072716,
+            47.3747895847
+          ],
+          [
+            8.5776816975,
+            47.3748466925
+          ],
+          [
+            8.5777197803,
+            47.3748592084
+          ],
+          [
+            8.5777560859,
+            47.3748739615
+          ],
+          [
+            8.5777903301,
+            47.3748908364
+          ],
+          [
+            8.5778222449,
+            47.3749097009
+          ],
+          [
+            8.5778515807,
+            47.3749304076
+          ],
+          [
+            8.5778781078,
+            47.3749527943
+          ],
+          [
+            8.5779016187,
+            47.3749766858
+          ],
+          [
+            8.5779219294,
+            47.3750018953
+          ],
+          [
+            8.5779388809,
+            47.3750282254
+          ],
+          [
+            8.5779523406,
+            47.3750554702
+          ],
+          [
+            8.5779622032,
+            47.3750834163
+          ],
+          [
+            8.5779683915,
+            47.3751118452
+          ],
+          [
+            8.577970857,
+            47.3751405343
+          ],
+          [
+            8.5779695805,
+            47.3751692592
+          ],
+          [
+            8.5779530391,
+            47.3755008388
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 31463,
+        "velo": 1,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Carl-Wehrli-Weg",
+        "map_velo": 5,
+        "map_fuss": 1,
+        "se_anno_cad_data": null,
+        "objectid": "30095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5390245499,
+            47.3752333769
+          ],
+          [
+            8.5391660038,
+            47.3755130554
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 32489,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "30136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5396184205,
+            47.376407568
+          ],
+          [
+            8.53984906,
+            47.3768635655
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 29674,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "31474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5382780513,
+            47.3731067487
+          ],
+          [
+            8.5382631061,
+            47.3734786692
+          ],
+          [
+            8.5382541551,
+            47.3735856982
+          ],
+          [
+            8.5382606374,
+            47.3736928092
+          ],
+          [
+            8.5382824912,
+            47.3737989779
+          ],
+          [
+            8.5383195075,
+            47.3739031887
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 30866,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "31866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4974673007,
+            47.4058678322
+          ],
+          [
+            8.4974690479,
+            47.4058832102
+          ],
+          [
+            8.4974722202,
+            47.4060293496
+          ],
+          [
+            8.4974723071,
+            47.406047051
+          ],
+          [
+            8.4974572156,
+            47.4061622981
+          ],
+          [
+            8.4974526254,
+            47.4061850021
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 30659,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Holbrigstrasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "33257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4964774884,
+            47.4039333697
+          ],
+          [
+            8.496477488,
+            47.4039451684
+          ],
+          [
+            8.4964788843,
+            47.4039569289
+          ],
+          [
+            8.4964816683,
+            47.4039685751
+          ],
+          [
+            8.496485822,
+            47.4039800318
+          ],
+          [
+            8.4964913185,
+            47.4039912248
+          ],
+          [
+            8.4964981223,
+            47.4040020816
+          ],
+          [
+            8.4967228297,
+            47.4042755953
+          ],
+          [
+            8.4967818182,
+            47.4043320407
+          ],
+          [
+            8.4968467574,
+            47.4043853904
+          ],
+          [
+            8.496917296,
+            47.4044353559
+          ],
+          [
+            8.4971161418,
+            47.404580819
+          ],
+          [
+            8.4971578326,
+            47.4046158227
+          ],
+          [
+            8.4971945283,
+            47.4046533157
+          ],
+          [
+            8.4972259084,
+            47.4046929707
+          ],
+          [
+            8.4972516989,
+            47.4047344413
+          ],
+          [
+            8.4972716744,
+            47.4047773653
+          ],
+          [
+            8.4973620905,
+            47.4050307175
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 36769,
+        "velo": 1,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Holbrigstrasse",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "34460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4788378159,
+            47.4042786091
+          ],
+          [
+            8.4788279114,
+            47.4042518348
+          ],
+          [
+            8.4786657878,
+            47.4033971422
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 37367,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Brücke",
+        "map_velo": 5,
+        "map_fuss": 1,
+        "se_anno_cad_data": null,
+        "objectid": "34874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.4998591336,
+            47.4028967217
+          ],
+          [
+            8.4998980253,
+            47.4029867652
+          ],
+          [
+            8.5000293104,
+            47.4032707011
+          ],
+          [
+            8.5001010014,
+            47.4034455082
+          ],
+          [
+            8.5001395451,
+            47.4035938415
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 35066,
+        "velo": 1,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Vogtsrain",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "35721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5382939164,
+            47.3727120347
+          ],
+          [
+            8.5382780513,
+            47.3731067487
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 34194,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "36604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5405413661,
+            47.3664278398
+          ],
+          [
+            8.5402235823,
+            47.3672389419
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 33775,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 0,
+        "name": "Bahnhofstrasse",
+        "map_velo": 5,
+        "map_fuss": 0,
+        "se_anno_cad_data": null,
+        "objectid": "37182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5001395451,
+            47.4035938415
+          ],
+          [
+            8.500151541,
+            47.4036400016
+          ],
+          [
+            8.5002112483,
+            47.4037539955
+          ],
+          [
+            8.5005376118,
+            47.4040994996
+          ],
+          [
+            8.5006115766,
+            47.4041734884
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 39138,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Vogtsrain",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "38445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.5006804203,
+            47.4042467848
+          ],
+          [
+            8.5008214562,
+            47.4043565165
+          ],
+          [
+            8.5009751767,
+            47.4044580929
+          ],
+          [
+            8.5011405623,
+            47.4045508403
+          ],
+          [
+            8.5014606369,
+            47.4046637171
+          ]
+        ]
+      },
+      "properties": {
+        "id1": 38814,
+        "velo": 0,
+        "velostreifen": "0",
+        "veloweg": 0,
+        "einbahn": "0",
+        "fuss": 1,
+        "name": "Vogtsrain",
+        "map_velo": 5,
+        "map_fuss": 2,
+        "se_anno_cad_data": null,
+        "objectid": "39276"
+      }
+    }
+  ]
+}
