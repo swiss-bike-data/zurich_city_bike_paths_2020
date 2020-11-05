@@ -28,3 +28,4 @@ For example:
 
     cat taz_mm.tbl_routennetz.json |jq '.features |= map(select(.properties.map_velo == 6))' > map_velo_6.json
    
+This data is licensed with [CC0](http://opendefinition.org/licenses/cc-zero/) by Stadt Zürich (very cool!) 
